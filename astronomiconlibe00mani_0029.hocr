@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "astronomiconlibe00mani_0029.png"; bbox 0 0 2248 3512; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 31 2608 1621 2795">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 31 2608 1621 2795">
+     <span class='ocr_line' id='line_1_1' title="bbox 31 2608 1621 2795; baseline -0.016 4"><span class='ocrx_word' id='word_1_1' title='bbox 31 2608 34 2611; x_wconf 68' lang='lat'><em>-</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 141 2688 341 2795; x_wconf 49' lang='lat'><em>&lt;²⁰⁶2</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 386 2632 811 2793; x_wconf 47' lang='lat' dir='ltr'><em>Wss‘ffm</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 842 2668 1335 2784; x_wconf 50' lang='lat' dir='ltr'><em>wwfidm</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1363 2676 1621 2775; x_wconf 49' lang='lat' dir='ltr'><em>*dem</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 150 2758 1435 2892">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 150 2758 1435 2892">
+     <span class='ocr_line' id='line_1_2' title="bbox 150 2758 1435 2892; baseline -0.009 -46"><span class='ocrx_word' id='word_1_6' title='bbox 150 2790 175 2892; x_wconf 68' lang='lat' dir='ltr'><em>J</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 210 2794 311 2848; x_wconf 48' lang='lat' dir='ltr'><em>‘mo</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 346 2785 615 2880; x_wconf 59' lang='lat' dir='ltr'><em>firsmycum</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 647 2777 873 2839; x_wconf 44' lang='lat' dir='ltr'><em>ahma*</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 916 2758 1183 2848; x_wconf 41' lang='lat' dir='ltr'><em>[namma]</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1199 2769 1435 2844; x_wconf 53' lang='lat' dir='ltr'><em>munel.)</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 132 2868 1647 3026">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 132 2868 1647 3026">
+     <span class='ocr_line' id='line_1_3' title="bbox 132 2868 1647 3026; baseline 0.002 -74"><span class='ocrx_word' id='word_1_12' title='bbox 132 2893 174 2959; x_wconf 67' lang='grc' dir='ltr'><em>Α</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 214 2883 357 2952; x_wconf 51' lang='lat' dir='ltr'><em>leem</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 400 2868 1073 3026; x_wconf 46' lang='lat' dir='ltr'><em>favsffllffsabaelusf</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1087 2883 1258 2955; x_wconf 53' lang='lat' dir='ltr'><em>zaessA</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 1286 2888 1450 2953; x_wconf 51' lang='lat' dir='ltr'><em>ma</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 1482 2891 1647 2965; x_wconf 47' lang='grc' dir='ltr'><em>ηομ,</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
